@@ -28,7 +28,7 @@ docker run -d -p 80:80 maxvogelfrei/dz22:latest
 </body>
 </html>
 ```
-В браузере:
+В браузере:  
 ![dz22.png](dz22.png)
 
 
